@@ -1,1 +1,1 @@
-../text/0002-second.md
+This is the second RFC
